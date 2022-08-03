@@ -3,8 +3,8 @@
  *   Sudoku Solver
  *=====================
  *
- * Started On - October 2nd, 2018
- * Author - Arjun Aravind
+ * Started On - October 2nd, 2021
+ * Author - Khijir Alam
  * Objective - Takes in Sudoku puzzles and outputs the solution.
 */
 
