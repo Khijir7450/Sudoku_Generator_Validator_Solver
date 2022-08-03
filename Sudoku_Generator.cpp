@@ -3,8 +3,8 @@
  *   Sudoku Generator
  *======================
  *
- * Started On - November 28th, 2018
- * Author - Arjun Aravind
+ * Started On - November 28th, 2021
+ * Author - Khijir Alam
  * Objective - Outputs a Sudoku puzzle.
 */
 
