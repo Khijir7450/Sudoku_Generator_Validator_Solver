@@ -3,8 +3,8 @@
  *    Sudoku Validator
  *========================
  *
- * Started On: October 18th, 2018
- * Author: Arjun Aravind
+ * Started On: October 18th, 2021
+ * Author: Khijir Alam
  * Objective: To verify whether a completed Sudoku puzzle is valid or not.
 */
 
