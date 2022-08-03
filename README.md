@@ -110,8 +110,7 @@ The workings of the Sudoku Validator are quite simple, to be honest. Here's a si
 
 ## Acknowledgements
 
-* Shriram R - Idea Inspiration
-* Aravind B - Puzzle Display Design Ideas
+* Khijir Alam - Idea Inspiration
 
 ## Tools
 * Vim Editor
